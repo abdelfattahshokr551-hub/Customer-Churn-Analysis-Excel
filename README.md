@@ -1,29 +1,57 @@
-🚀 Case Study: Analyzing Customer Churn in Excel
+# 📊 Customer Churn Analysis in Excel
 
-I recently completed a project analyzing customer churn for a fictitious telecom company, Databel, using Excel.
+## 🔹 Project Overview
+This project is a case study analyzing **customer churn** for a fictitious telecom company, **Databel**, using Microsoft Excel.  
 
-🔍 What I did:
+Churn is a critical challenge for subscription-based businesses, and the goal of this analysis is to uncover **why customers leave** and how companies can reduce churn.  
 
-Cleaned and prepared the dataset.
+---
 
-Built calculated columns and PivotTables to explore churn drivers.
+## 🔹 Tools & Skills Used
+- Microsoft Excel  
+- Data Cleaning & Preparation  
+- PivotTables & Calculated Fields  
+- Dashboard Design & Visualization  
 
-Designed an interactive Excel dashboard to visualize key insights.
+---
 
-📊 Key Findings:
+## 🔹 Key Steps
+1. **Data Preparation** – cleaned and structured the dataset.  
+2. **Exploratory Analysis** – used PivotTables to examine churn patterns by demographics, contracts, and usage.  
+3. **Competitor Analysis** – investigated reasons customers switched to competitors.  
+4. **Dashboard Creation** – built an interactive Excel dashboard summarizing insights.  
 
-1-Overall churn rate: 26.9%.
+---
 
-2-Highest churn rates were seen in states like CA (75%) and IN (66.7%).
+## 🔹 Key Insights
+- **Overall churn rate:** 26.9%  
+- States with the highest churn: **CA (75%)**, **IN (66.7%)**  
+- Customers with **monthly contracts** are more likely to churn than yearly subscribers.  
+- Competitors won customers with **better offers (44%)** and **higher download speeds (27%)**.  
+- **Senior customers** showed higher churn rates compared to younger groups.  
 
-3-Contract type and data usage played a big role in churn behavior.
+---
 
-4-Competitors attracted customers mainly with better offers (44%) and higher download speeds (27%).
+## 🔹 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)  
+*(Replace with your actual screenshot file name)*  
 
-5-Senior customers showed a higher churn rate compared to younger ones.
+---
 
-✨ Takeaway:
+## 🔹 Business Takeaways
+- Focus on **retention strategies** for seniors and high-churn states.  
+- Encourage longer-term contracts with discounts or loyalty benefits.  
+- Counter competitor offers with targeted campaigns.  
 
- Understanding why customers churn is critical. This analysis highlights that targeted retention strategies — like competitive offers and loyalty incentives — can significantly reduce churn.
+---
 
-📂 Dashboard Preview 👇
+## 🔹 Files Included
+- `Customer_Churn_Analysis.xlsx` → Full analysis & dashboard  
+- `dashboard.png` → Dashboard screenshot  
+- `README.md` → Project documentation  
+
+---
+
+## 🔹 Author
+👤ِAbdelfattah Shokr
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdelfattah-shokr/)  
