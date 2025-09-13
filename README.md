@@ -33,7 +33,7 @@ Churn is a critical challenge for subscription-based businesses, and the goal of
 ---
 
 ## 🔹 Dashboard Preview
-![Dashboard Screenshot](Case Study Analyzing Customer Churn in Excel.jpeg)
+![Dashborad Screenshot](Case Study Analyzing Customer Churn in Excel.jpeg)
 + Case Study Analyzing Customer Churn in Excel.jpeg
 ---
 
